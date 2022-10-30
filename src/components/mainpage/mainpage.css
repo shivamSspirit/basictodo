@@ -1,0 +1,15 @@
+.main-page-block{
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    background-color: aquamarine;
+    height: 100vh;
+
+}
+
+.todos-block{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
